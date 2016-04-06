@@ -1,0 +1,1 @@
+GoMahout  is a go port of the Apache Mahout.It's a source code, class-per-class, API-per-API and algorithmatic port of the Mahout written with go language.
